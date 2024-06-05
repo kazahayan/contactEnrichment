@@ -1,0 +1,4 @@
+nameparser
+pandas
+requests
+streamlit
